@@ -18,6 +18,26 @@ I also focus on developing my **English communication skills** preparing for **h
 
 ---
 
+
+## 🏢 Experience/Internship
+
+### **Full Stack Developer Intern — Vedseem Infotech Pvt. Ltd.**
+📍 On-site | 🗓️ Duration: 3 Months  
+
+- Developed a fully functional **E-Commerce Web Application** with frontend, backend, and admin panel  
+- Implemented **product customization** features such as personalized T-shirts, crockery printing & gift items  
+- Built **secure authentication** with JWT and role-based access control  
+- Created an **Admin Dashboard** to manage products, orders, users, and categories  
+- Integrated **Razorpay** for secure online payments and order tracking  
+- Enhanced UI/UX using **React.js + Tailwind CSS** for a responsive shopping experience  
+- Managed real-time data with **MongoDB & Mongoose**  
+- Improved API performance using **Express.js** and optimized database queries
+
+<img width="2000" height="1414" alt="saddam intership certificaiton program" src="https://github.com/user-attachments/assets/60d69422-7bb1-4727-a699-13ad824a94ab" />
+
+  
+---
+
 ## 📂 Projects
 
 Here are some of the major projects I've built:
