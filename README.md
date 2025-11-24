@@ -33,8 +33,7 @@ I also focus on developing my **English communication skills** preparing for **h
 - Managed real-time data with **MongoDB & Mongoose**  
 - Improved API performance using **Express.js** and optimized database queries
 
-<img width="2000" height="1414" alt="saddam intership certificaiton program" src="https://github.com/user-attachments/assets/60d69422-7bb1-4727-a699-13ad824a94ab" />
-
+![internship-certificate](https://github.com/user-attachments/assets/e0bb555f-8d07-41e4-a3a0-eb908ea50f69)
   
 ---
 
